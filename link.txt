@@ -1,1 +1,1 @@
-https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents (классификация дорожных происшествий)
+https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents (US Traffic Accident Dataset)
