@@ -1,3 +1,4 @@
 dataset: "C:\\home_screen\\programming\\ai practic\\datasets\\dataset_for_project\\US_Accidents_March23.csv"
+dataset_maus: "/Users/maus/Documents/GitHub/US_Accidents_March23.csv"
 type_weather: "type_weather.json"
 
