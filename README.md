@@ -1,1 +1,4 @@
-# Проект по дисциплине "технологии искусственного интеллекта"
+## Accident severity prediction
+
+## Links
+- Used dataset: kaggle.com/datasets/sobhanmoosavi/us-accidents
