@@ -19,12 +19,3 @@ To use this project, follow these steps:
 3. Train a machine learning model using the preprocessed dataset.
 4. Evaluate the model's performance using appropriate metrics.
 5. Use the trained model to predict the severity of accidents based on new input data.
-
-## Contributing
-
-Contributions to this project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request on the project's GitHub repository.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
